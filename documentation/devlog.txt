@@ -1,0 +1,4 @@
+Update Alpha 1.0: 2013-05-03 21:46 PST
+	Beginning work on this project, we'll see how this goes
+	First time making a full game in python, if a CYOA novel even really counts
+	While I will try to keep this devlog up to date, I give no guarantees
